@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   cf-usb-sidecar-mysql:
   - apiVersion: v1
-    created: 2019-08-02T18:59:28.849454356Z
+    created: 2019-08-02T19:00:37.146874298Z
     description: A Helm chart for SUSE Universal Service Broker Sidecar for access
       to MySql
-    digest: 13316edc27ff4b0f0fe85241303fc42b20311696a04c9c8e1dea27250fd3a242
+    digest: 313c3d8b1196aaeb61127f8dd399b2e9e4c130858e517d42cd64f944e39f6c40
     name: cf-usb-sidecar-mysql
     urls:
     - https://mook-as.github.io/kubernetes-charts-suse-com/cf-usb-sidecar-mysql-1.0.1-8-gb7ecacf.tgz
     version: 1.0.1-8-gb7ecacf
-generated: 2019-08-02T18:59:28.849205603Z
+generated: 2019-08-02T19:00:37.146631772Z
